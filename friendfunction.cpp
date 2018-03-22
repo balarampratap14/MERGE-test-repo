@@ -9,7 +9,7 @@ class Distance {
         friend int func(Distance); //friend function 
 };
 
-int func(Distance d){
+void func(Distance d){
 <<<<<<< HEAD
      //function definition here we go
 =======
@@ -18,7 +18,7 @@ int func(Distance d){
     d.meter=20;
 	d.c=30; //accessing private data from non-member function of class Distance..
     cout<<d.meter<<d.c;
-	return d.c; 
+	 
 }
 
 int main()
