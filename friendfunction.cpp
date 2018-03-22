@@ -18,7 +18,7 @@ void func(Distance d){
     d.meter=20;
 	d.c=30; //accessing private data from non-member function of class Distance..
     cout<<d.meter<<d.c;
-	 
+cout<<d.c;	 
 }
 
 int main()
