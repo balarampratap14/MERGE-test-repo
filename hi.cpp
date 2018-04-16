@@ -3,9 +3,10 @@ this is an
 test 
 file
 in 
-text mode 
-so 
-pleasse 
+cpp mode 
+so
+please.....
+pleasse .........
 ignore 
 the 
 content.
