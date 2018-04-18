@@ -35,7 +35,8 @@ int getCount(struct node* start)
 int main()      //main() starts
 {
         int choice;      
-        printf(" MENU LIST FOR OPERATIONS IN LINKED LIST");     
+        printf(" MENU LIST FOR OPERATIONS IN LINKED LIST");
+printf(" TRY ANY OPERATION");
 	printf("\n 1.Create a node     ");
                 printf("\n 2.Display the dode    ");
                 printf("\n 3.Insert at the beginning of node    ");
