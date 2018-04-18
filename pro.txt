@@ -1,0 +1,32 @@
+Project is based over implementation of linked list .The code will represent the creation of linked list and its various implementation as listed below.
+1. creating a node
+2. counting number of nodes
+3. insertion at the begining
+4. insertion at the end
+5. insertion at the position(specified)
+6. deletion at the begining
+7. deletion at the end
+8. deletion at the position
+
+Project will be divide into parts at would be merged at the last on successful contribution of team members.
+ 
+
+Project divided 
+1. Love   a. creating a node
+          b. deletion at the position
+          c. insertion at the begining
+          d. deletion at the begining
+
+2. Mudit  a. insertion at the end
+          b. deletion at the end
+ 
+
+3. Mohit  
+          a. insertion at the position
+          b. deletion at the position  
+
+
+Note: for linkedlist.c can be used for any reference if required
+
+Hello My name is prajjawal and I will be handling your project. cjhefeudhbkhsbxvuiechuhgfuijcrfhifv hkdhsjvceyugbvhjrfgceivh iwvyic gewuygfxieg          
+
