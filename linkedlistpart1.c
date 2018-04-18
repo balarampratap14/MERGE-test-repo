@@ -35,17 +35,18 @@ int getCount(struct node* start)
 int main()      //main() starts
 {
         int choice;      
-                printf("\n 1.Create     ");
-                printf("\n 2.Display    ");
-                printf("\n 3.Insert at the beginning    ");
-                printf("\n 4.Insert at the end  ");
-                printf("\n 5.Insert at specified position       ");
-                printf("\n 6.Delete from beginning      ");
-                printf("\n 7.Delete from the end        ");
-                printf("\n 8.Delete from specified position     ");
+        printf(" MENU LIST FOR OPERATIONS IN LINKED LIST");     
+	printf("\n 1.Create a node     ");
+                printf("\n 2.Display the dode    ");
+                printf("\n 3.Insert at the beginning of node    ");
+                printf("\n 4.Insert at the end of node  ");
+                printf("\n 5.Insert at specified position of the node      ");
+                printf("\n 6.Delete from beginning of the node      ");
+                printf("\n 7.Delete from the end of the node        ");
+                printf("\n 8.Delete from specified position of the node      ");
                 printf("\n 9.Exit\n");                
   while(1){               
-			    printf("\nEnter your choice:\t");
+			    printf("\nEnter your choice i.e from (1-9):\t");
                 scanf("%d",&choice);
                 switch(choice)
                 {
